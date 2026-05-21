@@ -317,21 +317,7 @@ StudyHub is a standalone web application that may integrate with:
 
 ## Entity Relationship Diagram (ERD)
 
-### Entities
-
-- User
-- Course
-- Assignment
-- Submission
-- Report
-
-### Relationships
-
-- One teacher → Many courses
-- One course → Many assignments
-- One student → Many submissions
-
----
+<img src="images/ChatGPT Image May 21, 2026, 04_45_56 PM.png">
 
 ## State Diagram
 
